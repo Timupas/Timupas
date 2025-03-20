@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Timupas
+- 👀 I’m interested in JS and GameDev
+- 🌱 I’m currently learning Java Script
+- 📬 Contact me @Timupas (Telegram)
