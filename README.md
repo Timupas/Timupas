@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Timupas
-- 👀 I’m interested in JS and GameDev
+- 👀 I’m interested in JS and Front-end
 - 🌱 I’m currently learning Java Script
-- 📬 Contact me @Timupas (Telegram)
+- 📬 Contact me @afkwall (Telegram)
